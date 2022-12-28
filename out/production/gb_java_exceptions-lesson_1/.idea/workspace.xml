@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5613a37-835a-439c-8ec5-505cb6c84496" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/IsODD/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson3_DZ/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson3_DZ/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson3_DZ/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson3_DZ/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson3_DZ/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson4_DZ/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson4_DZ/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson4_DZ/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson4_DZ/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson4_DZ/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson5_DZ/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson5_DZ/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson5_DZ/task2_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson5_DZ/task2_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson5_DZ/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson5_DZ/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson6_DZ/task1_redone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson6_DZ/task3_redone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/lesson6_DZ/task4_redone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Python/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/Guess_the_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/Popugaychik.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/break_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/continue_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/in_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/no_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/numbers_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/print_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/helloworld/while_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject1/DZ_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject1/Dz_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject1/Dz_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject1/dz_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject2/Dz_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject2/Dz_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject2/Dz_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject2/Dz_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject2/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject3/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//Geekbrains/Буткемпы/Аналитика/pythonProject3/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//ITVDN/Python/python-start-materials/002_Примитивные_типы_данных_и_переменные/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//ITVDN/Python/python-start-materials/002_Примитивные_типы_данных_и_переменные/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//ITVDN/Python/python-start-materials/002_Примитивные_типы_данных_и_переменные/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//ITVDN/Python/python-start-materials/003_Условные_операторы/L3/ternary_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../..//React_GB_HWs/HW_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gb_java_exceptions-lesson_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gb_java_exceptions-lesson_1/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JK5JAwtD5qwATygTZKXBHIWex2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Geekbrains/Исключения в программировании и их обработка/gb_java_exceptions-lesson_1/gb_java_exceptions-lesson_1&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5613a37-835a-439c-8ec5-505cb6c84496" name="Changes" comment="" />
+      <created>1671813859429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671813859429</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
